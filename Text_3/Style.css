@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.colorChange{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#button_1{
+    background-color: yellow;
+    
+}
+#button_2{
+    background-color: #010600;
+}
+#button_3{
+    background-color: #ff0000;
+}
+#button_4{
+    background-color: #20c20e;
+}
+#clear{
+ background-color: antiquewhite;
+}
+
+#canvas{
+    border: 1.5px solid black;
+}
